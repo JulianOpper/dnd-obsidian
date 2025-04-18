@@ -1,6 +1,6 @@
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role
-from "1-Party/Example Party 1"
+from "Campaign/1-Party/Party"
 where (Role = "Player") 
 where (Status = "Active") 
 ```
@@ -9,7 +9,7 @@ where (Status = "Active")
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, hp, ac, modifier, pasperc As "Passive Perception (WIS)"
-from "1-Party"
+from "Campaign/1-Party"
 where (Role = "Player") 
 where (Status = "Active") 
 ```
