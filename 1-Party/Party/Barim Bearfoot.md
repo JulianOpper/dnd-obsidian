@@ -29,6 +29,14 @@ PlayerKnownLanguages:
 ·        hat Soldaten (inklusive [[Dharakos]]) im High Forest vor Räubern gerettet
 ·        Räuber rächten sich, in dem sie sein Haus angezündet haben; Dharakos rettete ihn
 ·        Rechtssystem versagte, floh in den High Forest und wurde zur Folklore
+
+## Relationships
+- Vater †
+- Mutter †
+- [[Bruder]] in Waterdeep
+- [[Bruder]] in Daggerford
+- Romantic Interest [[Mirabella Puddle]]
+- Freund [[Hakim]]
 # Secrets
 
 # Fragen

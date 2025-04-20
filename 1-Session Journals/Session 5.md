@@ -18,25 +18,19 @@ tags:
   - journal
 ---
 
-<% await tp.file.move("/Campaign/1-Session Journals/" + tp.file.title) %>
 
-<%*
-const hasTitle = !tp.file.title.startsWith("NewJournal");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter Session Number");
-    await tp.file.rename("Session " + title);
-} else {
-    title = tp.file.title;
-}
-_%>
 
 # Roster 
 - [[Barim Bearfoot]]
 - [[Alaric Stormrider]]
 - [[Timotheus Thal]]
 # Recap
-
+- laufen durch Kanalisation
+- finden Grabmahl mit Loot
+- Kampf gegen Skelette
+- laufen auf dem Tradeway bis zu einer Kreuzung
+- Tempel der Hekate
+- entschließen sich rechten Weg Richtung [[Tempus's Tears]] zu laufen
 
 
 # Plan

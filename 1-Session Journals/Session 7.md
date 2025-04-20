@@ -18,26 +18,18 @@ tags:
   - journal
 ---
 
-<% await tp.file.move("/Campaign/1-Session Journals/" + tp.file.title) %>
 
-<%*
-const hasTitle = !tp.file.title.startsWith("NewJournal");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter Session Number");
-    await tp.file.rename("Session " + title);
-} else {
-    title = tp.file.title;
-}
-_%>
 
 # Roster 
 - [[Barim Bearfoot]]
 - [[Alaric Stormrider]]
 - [[Timotheus Thal]]
 # Recap
-
-
+- kommen nach [[Tempus's Tears]]
+- Zwei-Türen-Taverne
+- Wettkampf gegen andere Personen
+- [[Porter Fantasia]] und [[Miriam Fantasia]] führen das Lokal
+- Barim versteht sich gut mit [[Mirabella Puddle]] und geht mir ihr nach Hause
 
 # Plan
 

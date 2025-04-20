@@ -28,6 +28,12 @@ PlayerKnownLanguages:
 - Er merkte schon bald, dass Lathander öfters auf seine Gebete zu antworten schien als bei anderen. So wird er bald in die Ränge der Dawnbringer aufgenommen. 
 - Doch fühlt er, dass seine Fähigkeiten im Tempel nicht voll genutzt werden und beschließt den Temple zu verlassen und als Wanderpriester den Leuten die Botschaft und Güte Lathander's näher zu bringen. Sei dies durch das Heilen von Wunden oder das davonjagen von Übeltätern. 
 - Er reist entlang des [[Chiontar]] und gelangt so nach [[Baldurs Gate]]. Auf seiner Reise macht er halt an einem dem [[Lathander geweihten Tempel]], wo er auf einen älteren etwas grimmig schauenden Githyanki Mönch trifft. (Jahr 4) Er ist einer der letzten Personen die [[Lee Wok]] lebendig gesehen hat.
+
+## Relationships
+- Vater
+- Mutter 
+- Mentor [[Großmeister Illustratum]]
+- Vertrauter [[Master Lee Wok]]
 # Secrets
 
 # Fragen

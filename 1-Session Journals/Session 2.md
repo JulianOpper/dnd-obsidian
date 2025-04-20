@@ -18,26 +18,19 @@ tags:
   - journal
 ---
 
-<% await tp.file.move("/Campaign/1-Session Journals/" + tp.file.title) %>
 
-<%*
-const hasTitle = !tp.file.title.startsWith("NewJournal");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter Session Number");
-    await tp.file.rename("Session " + title);
-} else {
-    title = tp.file.title;
-}
-_%>
 
 # Roster 
 - [[Barim Bearfoot]]
 - [[Alaric Stormrider]]
 - [[Timotheus Thal]]
 # Recap
-
-
+- Fest zum 10. Jahrestag
+- Beim Fest: Reden und Anschlag, Dharakos und Consul verletzt
+- Thanatos und Alderis verschwunden
+- Alaric und Barim in [[Elfsong Tavern]], haben sich mit [[Cedric Amcathra]] getroffen 
+- Vorwarnung bekommen, gehen auf den Weg nach [[Boareskyr Bridge]]
+- Timotheus weg zurück zum Tempel
 
 # Plan
 

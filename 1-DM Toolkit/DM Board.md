@@ -11,13 +11,13 @@ where contains(Status, "Active")
 ```
 
 ```meta-bind-button
-label: New Journal Entry
+label: New Session
 hidden: false
 id: ""
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: "z_Templates/TemplateJournal.md"
+    templateFile: "Campaign/z_Templates/TemplateJournal.md"
     fileName: NewJournal
 ```
 

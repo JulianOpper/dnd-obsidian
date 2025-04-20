@@ -31,6 +31,12 @@ PlayerKnownLanguages:
 - Begann seinen Hass zu channeln und wurde zum Söldner -> primär aus survival gründen söldner wurde, weil er als adliger viel Schwertkampf gelernt hat und sonst nicht wirklich was konnte (because he kinda stupid)
 - Wurde (mit anderen) als Söldner von [[Dharakos]] und dem Militär angestellt um das Gebiet um [[Berdusk ]]zu erobern und als 13. Provinz der Republik einzuführen
 
+## Relationships
+- Vater [[Alferic Ashcroft]] †
+- Mutter [[Aliah Ashcroft]] †
+- Schwester [[Alara Ashcroft]]
+- ehemaliger Kommandant [[Cpt. Kartis]]
+- Auftraggeber [[Dharakos]]
 # Secrets
 ## Player
 - eigentlich Teil der Familie [[Ashcroft]]
